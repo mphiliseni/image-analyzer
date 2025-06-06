@@ -9,6 +9,11 @@ Image Analyzer is a Python-based tool designed to analyze images. It provides ut
 <img width="1439" alt="Screenshot 2025-06-06 at 20 16 30" src="https://github.com/user-attachments/assets/aa8d0c35-7895-46d1-a112-92ec20e834b4" />
 
 
+## result
+
+<img width="1438" alt="Screenshot 2025-06-06 at 21 10 58" src="https://github.com/user-attachments/assets/8aadc666-d178-421e-9d31-7fb21550ea52" />
+
+
 
 ## Features
 
