@@ -1,5 +1,9 @@
 # Image Analyzer
 
+![mindmapping](https://github.com/user-attachments/assets/29b52400-dd7b-4bb3-b947-33c1086664a3)
+
+
+
 Image Analyzer is a Python-based tool designed to analyze images. It provides utilities for processing, extracting insights, and visualizing various properties of images.
 
 <img width="1435" alt="Screenshot 2025-06-06 at 18 41 38" src="https://github.com/user-attachments/assets/cd17e45a-74da-46c3-bc7d-96203f0f410d" />
@@ -21,6 +25,7 @@ Image Analyzer is a Python-based tool designed to analyze images. It provides ut
 - Extraction of image properties (dimensions, format, etc.)
 - Visualization of images and their components
 - Modular and extensible analysis functions
+
 
 ## Installation
 
